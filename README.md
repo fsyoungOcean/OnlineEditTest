@@ -2,8 +2,8 @@
 AAAA
 
 
-BBBBB
+BBB  ABB
 
 CCCC
 
-DDD
+DDCCCD
